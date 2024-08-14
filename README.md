@@ -1,6 +1,8 @@
 # Problem statement
 Create the frontend for an ecommerce website.
 
+# Live - 'https://ecommercereactskill.netlify.app/' 
+
 # Instructions
 Functionality
 1. Navbar
